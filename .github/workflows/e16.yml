@@ -3,8 +3,8 @@
 name: E16 Build the RFM table
 
 on:
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
   workflow_dispatch:
 
 env:
