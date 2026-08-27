@@ -37,3 +37,5 @@ dbutils.notebook.exit(
     f"scored {scored.count()} customers: "
     f"high={bands.get('high', 0)} medium={bands.get('medium', 0)} low={bands.get('low', 0)}"
 )
+
+# TEST COMMENT E04 filter
